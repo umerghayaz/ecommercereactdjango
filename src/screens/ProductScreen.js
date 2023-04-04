@@ -102,7 +102,7 @@ function ProductScreen({ match,history }) {
                                                     </Row>
                                                 </ListGroup.Item>
                                             )}
-                                            {/* git  */}
+                                            {/* git KO */}
                                 <ListGroup.Item>
                                     <Button
                                     onClick={addToCartHandler}
